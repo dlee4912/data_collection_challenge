@@ -8,10 +8,10 @@ Part 2 looks at Mars weather data from https://static.bc-edx.com/data/web/mars_f
 
 # Libraries used
 
-Splinter
-BeautifulSoup
-MatPlotLib.PyPlot
-Pandas
+- Splinter
+- BeautifulSoup
+- MatPlotLib.PyPlot
+- Panndas
 
 # Contributing
 Daniel Lee 3/14/23
